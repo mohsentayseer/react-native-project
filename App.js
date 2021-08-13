@@ -1,14 +1,8 @@
-import { StatusBar } from 'expo-status-bar';
-import React from 'react';
-import { Pressable, StyleSheet, Text, View, Alert, SafeAreaView } from 'react-native';
-import { HomeScreen } from './src/screens';
-
-export default function App() {
-  return (
-    <SafeAreaView>
-      <HomeScreen />
-    </SafeAreaView>
-
-  );
-}
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://github.com/asamiz/react-native-course-iti/blob/Day-2/App.js</string>
+</dict>
+</plist>
